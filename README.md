@@ -62,6 +62,11 @@ i am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
 </div>
 
+---
+### 🔥 my stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vickykimani&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 
 
 
