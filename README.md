@@ -9,9 +9,9 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=vickykimani&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vickykimani&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
 <h1>
-  <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px" align="center"/>
 </h1>
