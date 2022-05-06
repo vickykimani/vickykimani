@@ -19,3 +19,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/TvjaeocStSe5O/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+### 👩‍💻 about me :
+i am a computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from nairobi.
+
+- 🔭 i am contributing to frontend and backend for building web applications.
+- 🌱 exploring machine learning.
+- 📫 how to reach me: victorianightingale70@gmail.com (email)
