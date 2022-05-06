@@ -15,3 +15,7 @@
 <h1 id="headerr" align="center">
   <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/TvjaeocStSe5O/giphy.gif" width="600" height="300"/>
+</div>
