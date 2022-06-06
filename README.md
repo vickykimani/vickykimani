@@ -65,12 +65,8 @@ i am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 ### 🔥 my stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vickykimani&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
-<br>
-<br>
+![vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickykimani&theme=tokyonight&show_icons=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vickykimani&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykimani&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickykimani&theme=tokyonight&show_icons=true)
 
 
 
