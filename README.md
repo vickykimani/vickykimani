@@ -1,6 +1,5 @@
-<p>hi there! my name is vicky kimani</p>
-<br>
 <div id="header" align="center">
+  <p>hi there! my name is vicky kimani</p>
   <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/>
 </div>
 
