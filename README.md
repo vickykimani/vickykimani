@@ -70,7 +70,7 @@ i am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykimani&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickykimani)
+![vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickykimani&theme=tokyonight&show_icons=true)
 
 
 
