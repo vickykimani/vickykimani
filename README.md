@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,13 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=vickykimani&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
-<h1 id="headerr" align="center">
-  <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/TvjaeocStSe5O/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 ### 👩‍💻 about me :
