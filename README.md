@@ -19,7 +19,7 @@
 i am a computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from nairobi.
 
 - 👧 pronouns: she/they
-- 🌱 currently exploring django framework.
+- 🌱 currently exploring machine learning & django framework.
 - 📫 how to reach me: victorianightingale70@gmail.com (email)
 
 ---
