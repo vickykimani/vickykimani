@@ -60,7 +60,9 @@ i am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
 ---
 ### 🔥 my stats :
 <div id="stats" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vickykimani)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vickykimani)](https://git.io/streak-stats)
+  
+<!--   https://github-readme-streak-stats.herokuapp.com/?user=vickykimani -->
   
   <br>
   
