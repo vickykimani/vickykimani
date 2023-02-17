@@ -57,36 +57,3 @@ i am a computer science student <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
 </div>
 
----
-### 🔥 my stats :
-<div id="stats" align="center">
-  
-<!--   https://github-readme-streak-stats.herokuapp.com/?user=vickykimani -->
-  
-  <br>
-  
-  [![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickykimani)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <br>
-  
-  [![Vicky's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vickykimani)](https://git.io/streak-stats)
-  
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykimani)](https://github.com/anuraghazra/github-readme-stats)
-
-</div> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
