@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="30px"/> hi, i'm vicky
-i'm a graduate student at DePaul University, pursuing an MS in Human-Computer Interaction. i'm passionate about user-centered design, front-end development, and creating intuitive digital experiences.
+i'm a graduate student at DePaul University, pursuing an MS in Human-Computer Interaction. i also hold a bachelor's degree in computer science. i'm passionate about user-centered design, front-end development, and creating intuitive digital experiences.
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/vicky-kimani-171202207/">
